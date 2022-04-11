@@ -1,0 +1,5 @@
+node_modules/
+uploads/
+production_logs/*
+dump.rdb
+package-lock.json

@@ -1,0 +1,3 @@
+const development = {
+    name: 'development'
+}

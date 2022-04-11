@@ -1,0 +1,14 @@
+#nav-menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(83, 28, 223, 0.435);
+    color: white;
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+    a {
+        text-decoration: none;
+    }
+}

@@ -1,0 +1,38 @@
+#nav-menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(83, 28, 223, 0.435);
+    color: white;
+    font-family: sans-serif;
+    li {
+        list-style: none;
+        display: inline-block;
+        margin: 10px;
+        a {
+            text-decoration: none;
+            color: white;
+        }
+        font-weight: 650;
+    }
+    height: auto;
+}
+
+#nav-icon {
+    margin-top: 200px;
+    font-size: 2em;
+    font-weight: bold;
+    a {
+        text-decoration: none;
+    }
+}
+
+.nav-element {
+    display: flex;
+    padding-right: 20px;
+}
+
+#nav-name {
+    margin-top: 6px;
+    padding: 15px;
+    text-decoration: none;
+}
